@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sistema de Pedidos Eletronicos</string>
+    <string name="title_activity_detalhes">DetalhesActivity</string>
+</resources>
